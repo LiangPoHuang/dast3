@@ -17,3 +17,4 @@ jobs:
           target: 'http://120.113.173.21:8081'
           rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
+
